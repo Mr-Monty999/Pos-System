@@ -1,0 +1,1761 @@
+Renamed Types:
+
+[Pos System]Pos_System.Active -> [Pos System] . 
+{
+	[Pos System]Pos_System.Active::Active_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.Active::ImageButtonFacebook_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.Active::Active_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) ->  
+	[Pos System]Pos_System.Active::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.Active::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.Active::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.Active::components ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.Active::LabelTitle ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.Active::label1 ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.Active::bunifuTextBox1 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.Active::label23 ->  
+	Bunifu.UI.WinForms.BunifuImageButton [Pos System]Bunifu.UI.WinForms.BunifuImageButton Pos_System.Active::ImageButtonFacebook ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.Active::label21 ->  
+}
+
+[Pos System]Pos_System.EditForm -> [Pos System] . 
+{
+	[Pos System]Pos_System.EditForm::EditForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_0_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_2_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_3_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_4_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_5_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_6_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_7_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_8_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_9_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_OK_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_Clear_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.EditForm::EditForm_KeyPress[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyPressEventArgs ) ->  
+	[Pos System]Pos_System.EditForm::EditForm_KeyDown[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyEventArgs ) ->  
+	[Pos System]Pos_System.EditForm::Btn_Backspace_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ​
+	[Pos System]Pos_System.EditForm::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.EditForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.EditForm::.ctor[0]( ) skipped:  special name
+
+	System.Double [Pos System]System.Double Pos_System.EditForm::number ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.EditForm::OkPressed ->  
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.EditForm::components ->  
+	System.Windows.Forms.Panel [Pos System]System.Windows.Forms.Panel Pos_System.EditForm::panel1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_Clear ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_OK ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_9 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_8 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_7 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_6 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_5 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_4 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_0 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_3 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_2 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.EditForm::Btn_Backspace ->  
+	System.Windows.Forms.TextBox [Pos System]System.Windows.Forms.TextBox Pos_System.EditForm::TextView ->  
+}
+
+[Pos System]Pos_System.Invoice -> [Pos System] . 
+{
+	[Pos System]Pos_System.Invoice::get_invoice_number[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_invoice_number[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.Invoice::get_product_name[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_product_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Invoice::get_product_amount[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_product_amount[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.Invoice::get_product_price[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_product_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.Invoice::get_total_price[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_total_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.Invoice::get_extract_date[0]( ) ->  
+	[Pos System]Pos_System.Invoice::set_extract_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Invoice::GetLastInvoiceNumber[0]( ) ->  
+	[Pos System]Pos_System.Invoice::HasRows[0]( ) ->  
+	[Pos System]Pos_System.Invoice::Insert[0]( ) ->  
+	[Pos System]Pos_System.Invoice::GetInvoiceTotal[1]( [mscorlib]System.Int32 ) ->  
+
+	[Pos System]Pos_System.Invoice::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Int32 [Pos System]System.Int32 Pos_System.Invoice::_invoice_number ->  
+	System.String [Pos System]System.String Pos_System.Invoice::_product_name ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.Invoice::_product_amount ->  
+	System.Double [Pos System]System.Double Pos_System.Invoice::_product_price ->  
+	System.Double [Pos System]System.Double Pos_System.Invoice::_total_price ->  
+	System.String [Pos System]System.String Pos_System.Invoice::_extract_date ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Invoice::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Invoice::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Invoice::read ->  
+
+	System.Int32 [Pos System]System.Int32 Pos_System.Invoice::invoice_number -> dropped
+	System.String [Pos System]System.String Pos_System.Invoice::product_name -> dropped
+	System.Int32 [Pos System]System.Int32 Pos_System.Invoice::product_amount -> dropped
+	System.Double [Pos System]System.Double Pos_System.Invoice::product_price -> dropped
+	System.Double [Pos System]System.Double Pos_System.Invoice::total_price -> dropped
+	System.String [Pos System]System.String Pos_System.Invoice::extract_date -> dropped
+}
+
+[Pos System]Pos_System.InvoiceReport -> [Pos System] . 
+{
+	[Pos System]Pos_System.InvoiceReport::InvoiceReport_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.InvoiceReport::reportViewer1_RenderingComplete[2]( [mscorlib]System.Object, [Microsoft.ReportViewer.WinForms]Microsoft.Reporting.WinForms.RenderingCompleteEventArgs ) ->  
+	[Pos System]Pos_System.InvoiceReport::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.InvoiceReport::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.InvoiceReport::.ctor[0]( ) skipped:  special name
+
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.InvoiceReport::components ->  
+	System.Windows.Forms.BindingSource [Pos System]System.Windows.Forms.BindingSource Pos_System.InvoiceReport::invoiceBindingSource ->  
+	Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter Pos_System.InvoiceReport::invoiceTableAdapter ->  
+	Pos_System.posdataDataSet [Pos System]Pos_System.posdataDataSet Pos_System.InvoiceReport::posdataDataSet ->  
+	Microsoft.Reporting.WinForms.ReportViewer [Pos System]Microsoft.Reporting.WinForms.ReportViewer Pos_System.InvoiceReport::reportViewer1 ->  
+}
+
+[Pos System]Pos_System.Items -> [Pos System] . 
+{
+	[Pos System]Pos_System.Items::get_item_name[0]( ) ->  
+	[Pos System]Pos_System.Items::set_item_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Items::get_item_image[0]( ) ->  
+	[Pos System]Pos_System.Items::set_item_image[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Items::Insert[0]( ) ->  
+	[Pos System]Pos_System.Items::Update[0]( ) ->  
+	[Pos System]Pos_System.Items::Delete[0]( ) ->  
+	[Pos System]Pos_System.Items::CheckItemExist[0]( ) ->  
+
+	[Pos System]Pos_System.Items::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.String [Pos System]System.String Pos_System.Items::_item_name ->  
+	System.String [Pos System]System.String Pos_System.Items::_item_image ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Items::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Items::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Items::read ->  
+
+	System.String [Pos System]System.String Pos_System.Items::item_name -> dropped
+	System.String [Pos System]System.String Pos_System.Items::item_image -> dropped
+}
+
+[Pos System]Pos_System.Login -> [Pos System] . 
+{
+	[Pos System]Pos_System.Login::get_username[0]( ) ->  
+	[Pos System]Pos_System.Login::set_username[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::get_password[0]( ) ->  
+	[Pos System]Pos_System.Login::set_password[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::get_permission[0]( ) ->  
+	[Pos System]Pos_System.Login::set_permission[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::HasRows[0]( ) ->  
+	[Pos System]Pos_System.Login::UserNameExist[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::Register[0]( ) ->  
+	[Pos System]Pos_System.Login::CheckLogin[0]( ) ->  
+	[Pos System]Pos_System.Login::IsAdmin[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::Update[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Login::Delete[0]( ) ->  
+
+	[Pos System]Pos_System.Login::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Login::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Login::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Login::read ->  
+	System.String [Pos System]System.String Pos_System.Login::<username>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Login::<password>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Login::<permission>k__BackingField ->  
+
+	System.String [Pos System]System.String Pos_System.Login::username -> dropped
+	System.String [Pos System]System.String Pos_System.Login::password -> dropped
+	System.String [Pos System]System.String Pos_System.Login::permission -> dropped
+}
+
+[Pos System]Pos_System.LoginForm -> [Pos System] . 
+{
+	[Pos System]Pos_System.LoginForm::LoadInfo[0]( ) ->  
+	[Pos System]Pos_System.LoginForm::LoginForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::CheckBoxShowPassword_CheckedChanged[2]( [mscorlib]System.Object, [Bunifu.UI.WinForms.BunifuCheckBox]Bunifu.UI.WinForms.BunifuCheckBox/CheckedChangedEventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::LoginForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::Btn_Login_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::Btn_SignUp_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::LoginForm_Shown[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::LoginForm_FormClosed[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosedEventArgs ) ->  
+	[Pos System]Pos_System.LoginForm::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.LoginForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.LoginForm::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.LoginForm::.cctor[0]( ) skipped:  special name
+
+	Pos_System.Login [Pos System]Pos_System.Login Pos_System.LoginForm::login ->  
+	System.String [Pos System]System.String Pos_System.LoginForm::username ->  
+	System.String [Pos System]System.String Pos_System.LoginForm::password ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.LoginForm::IsAdmin ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.LoginForm::logged ->  
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.LoginForm::components ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.LoginForm::label13 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.LoginForm::label12 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.LoginForm::Btn_Login ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.LoginForm::label17 ->  
+	Bunifu.UI.WinForms.BunifuCheckBox [Pos System]Bunifu.UI.WinForms.BunifuCheckBox Pos_System.LoginForm::CheckBoxShowPassword ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.LoginForm::Btn_SignUp ->  
+	Bunifu.UI.WinForms.BunifuPictureBox [Pos System]Bunifu.UI.WinForms.BunifuPictureBox Pos_System.LoginForm::PictureBoxLogo ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.LoginForm::LabelTitle ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.LoginForm::textUserName ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.LoginForm::textPassword ->  
+}
+
+[Pos System]Pos_System.MainForm -> [Pos System] . 
+{
+	[Pos System]Pos_System.MainForm::LoadRestaurantInfo[0]( ) ->  
+	[Pos System]Pos_System.MainForm::LoadAndSetUpTables[0]( ) ->  
+	[Pos System]Pos_System.MainForm::MainForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::SetupPanels[1]( [Bunifu.UI.WinForms.BunifuPanel]Bunifu.UI.WinForms.BunifuPanel ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Menu2_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Menu1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Menu3_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::MainForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::PutAllItemsAndProducts[2]( [Bunifu.UI.WinForms.BunifuPanel]Bunifu.UI.WinForms.BunifuPanel, [Bunifu.UI.WinForms.BunifuPanel]Bunifu.UI.WinForms.BunifuPanel ) ->  
+	[Pos System]Pos_System.MainForm::ItemPhoto_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_AddItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_EditItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::ComboItemName_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_DeleteItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Menu4_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::ComboProductName_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_AddProduct_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::ProductPhoto_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_EditProduct_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ​
+	[Pos System]Pos_System.MainForm::Btn_DeleteProduct_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‐
+	[Pos System]Pos_System.MainForm::button1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‑
+	[Pos System]Pos_System.MainForm::Btn_AddInvoice_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‒
+	[Pos System]Pos_System.MainForm::Btn_PrintInvoice_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> –
+	[Pos System]Pos_System.MainForm::DataGridOrder_CellClick[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.DataGridViewCellEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::CountFullTotal[0]( ) ->  
+	[Pos System]Pos_System.MainForm::حذفToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> —
+	[Pos System]Pos_System.MainForm::Btn_ClearRows_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ―
+	[Pos System]Pos_System.MainForm::ShowTotalPriceByDate[0]( ) ->  
+	[Pos System]Pos_System.MainForm::Btn_SalesReport_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> •
+	[Pos System]Pos_System.MainForm::Btn_Menu5_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ․
+	[Pos System]Pos_System.MainForm::Btn_SaveResInfo_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‥
+	[Pos System]Pos_System.MainForm::Btn_Logo_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‧
+	[Pos System]Pos_System.MainForm::Btn_Menu6_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllInvoiceAndSales_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllItems_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‪
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllProducts_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‫
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllInfo_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‬
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllAndReset_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‭
+	[Pos System]Pos_System.MainForm::Btn_Menu7_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‮
+	[Pos System]Pos_System.MainForm::backgroundWorker1_DoWork[2]( [mscorlib]System.Object, [System]System.ComponentModel.DoWorkEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::bunifuImageButton1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::text_ResPhone_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ′
+	[Pos System]Pos_System.MainForm::text_ResAddress_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‵
+	[Pos System]Pos_System.MainForm::text_ResName_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ″
+	[Pos System]Pos_System.MainForm::TextProductPrice_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‶
+	[Pos System]Pos_System.MainForm::InvoiceNum_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ‾
+	[Pos System]Pos_System.MainForm::CheckBoxShowPassword_CheckedChanged[2]( [mscorlib]System.Object, [Bunifu.UI.WinForms.BunifuCheckBox]Bunifu.UI.WinForms.BunifuCheckBox/CheckedChangedEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_EditAccount_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁇
+	[Pos System]Pos_System.MainForm::Btn_Logout_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁈
+	[Pos System]Pos_System.MainForm::ShowAllTotalPrice[0]( ) ->  
+	[Pos System]Pos_System.MainForm::ShowAllProfits[0]( ) ->  
+	[Pos System]Pos_System.MainForm::ShowProfitsByDate[0]( ) ->  
+	[Pos System]Pos_System.MainForm::Btn_SalesFullReport_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁉
+	[Pos System]Pos_System.MainForm::Btn_GetLastInvoice_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁊
+	[Pos System]Pos_System.MainForm::MainForm_SizeChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁋
+	[Pos System]Pos_System.MainForm::InvoiceNum_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁌
+	[Pos System]Pos_System.MainForm::Btn_NextPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁍
+	[Pos System]Pos_System.MainForm::Btn_LastPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁎
+	[Pos System]Pos_System.MainForm::Btn_FirstPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁏
+	[Pos System]Pos_System.MainForm::Btn_PrevPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁐
+	[Pos System]Pos_System.MainForm::DatePicker1_ValueChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁑
+	[Pos System]Pos_System.MainForm::نسخToolStripMenuItem_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁒
+	[Pos System]Pos_System.MainForm::Btn_SearchByDate_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁓
+	[Pos System]Pos_System.MainForm::Trial_Tick[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁔
+	[Pos System]Pos_System.MainForm::Btn_AddAccount_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁕
+	[Pos System]Pos_System.MainForm::Btn_DeleteAccount_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁖
+	[Pos System]Pos_System.MainForm::SelectUserName_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁗
+	[Pos System]Pos_System.MainForm::LoginTimer_Tick[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁘
+	[Pos System]Pos_System.MainForm::Btn_LoadItems_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁙
+	[Pos System]Pos_System.MainForm::ItemsLoadWorker_DoWork[2]( [mscorlib]System.Object, [System]System.ComponentModel.DoWorkEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::ItemsLoadWorker_RunWorkerCompleted[2]( [mscorlib]System.Object, [System]System.ComponentModel.RunWorkerCompletedEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Color_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁚
+	[Pos System]Pos_System.MainForm::Btn_Menu8_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁛
+	[Pos System]Pos_System.MainForm::Btn_AddPurchase_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁜
+	[Pos System]Pos_System.MainForm::Btn_EditPurchase_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁝
+	[Pos System]Pos_System.MainForm::ComboPurchaseName_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁞
+	[Pos System]Pos_System.MainForm::Btn_DeletePurchase_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.MainForm::Btn_Menu9_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁠
+	[Pos System]Pos_System.MainForm::Btn_Withdraw_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁡
+	[Pos System]Pos_System.MainForm::Btn_Deposit_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁢
+	[Pos System]Pos_System.MainForm::Btn_WalletFirstPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁣
+	[Pos System]Pos_System.MainForm::Btn_WalletNextPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁤
+	[Pos System]Pos_System.MainForm::Btn_WalletPrevPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁪
+	[Pos System]Pos_System.MainForm::Btn_WalletLastPage_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁫
+	[Pos System]Pos_System.MainForm::Btn_DeleteAllPurchases_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁬
+	[Pos System]Pos_System.MainForm::SaveData_Tick[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁭
+	[Pos System]Pos_System.MainForm::MainForm_FormClosed[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosedEventArgs ) ->  
+	[Pos System]Pos_System.MainForm::LabelTotal_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁮
+	[Pos System]Pos_System.MainForm::CLearMemory_Tick[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ⁯
+	[Pos System]Pos_System.MainForm::InitializeComponent[0]( ) ->  
+	[Pos System]Pos_System.MainForm::<MainForm_Load>b__23_0[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> 　
+	[Pos System]Pos_System.MainForm::<ItemsLoadWorker_DoWork>b__112_0[0]( ) ->  
+
+	[Pos System]Pos_System.MainForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.MainForm::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.MainForm::.cctor[0]( ) skipped:  special name
+
+	System.String [Pos System]System.String Pos_System.MainForm::shop_name ->  
+	System.String [Pos System]System.String Pos_System.MainForm::shop_phone ->  
+	System.String [Pos System]System.String Pos_System.MainForm::shop_phone2 ->  
+	System.String [Pos System]System.String Pos_System.MainForm::shop_address ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::displaysalescount ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::pagesnumber ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::walletpagenumber ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.MainForm::connect ->  
+	System.Data.SQLite.SQLiteTransaction [Pos System]System.Data.SQLite.SQLiteTransaction Pos_System.MainForm::trans ->  
+	System.Data.SQLite.SQLiteDataAdapter [Pos System]System.Data.SQLite.SQLiteDataAdapter Pos_System.MainForm::adapt ->  
+	System.Data.SQLite.SQLiteDataAdapter [Pos System]System.Data.SQLite.SQLiteDataAdapter Pos_System.MainForm::saleadapt ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::itemstable ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::productstable ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::salestable ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::purchasestable ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::wallettable ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::order ->  
+	System.Data.DataTable [Pos System]System.Data.DataTable Pos_System.MainForm::accountstable ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::Label_FullTotal ->  
+	Pos_System.LoginForm [Pos System]Pos_System.LoginForm Pos_System.MainForm::login ->  
+	Pos_System.AmountForm [Pos System]Pos_System.AmountForm Pos_System.MainForm::amountform ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.MainForm::read ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.MainForm::cmd ->  
+	System.String [Pos System]System.String Pos_System.MainForm::imagepath ->  
+	System.String [Pos System]System.String Pos_System.MainForm::invoice_number ->  
+	System.String [Pos System]System.String Pos_System.MainForm::invoice_extract_date ->  
+	Pos_System.InvoiceReport [Pos System]Pos_System.InvoiceReport Pos_System.MainForm::invoice_report ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::rowindex ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::columnindex ->  
+	Pos_System.EditForm [Pos System]Pos_System.EditForm Pos_System.MainForm::editform ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::full_total_price ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::full_total_profits ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::daily_total_price ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::daily_total_profits ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::monthly_total_price ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::monthly_total_profits ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::yearly_total_price ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm::yearly_total_profits ->  
+	System.String [Pos System]System.String Pos_System.MainForm::date ->  
+	Pos_System.SalesReport [Pos System]Pos_System.SalesReport Pos_System.MainForm::sales_report ->  
+	System.String [Pos System]System.String Pos_System.MainForm::logopath ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::currentpage ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.MainForm::walletcurrentpage ->  
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.MainForm::components ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::MainMenu_Panel ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu3 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu2 ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu1 ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu3 ->  
+	System.Windows.Forms.OpenFileDialog [Pos System]System.Windows.Forms.OpenFileDialog Pos_System.MainForm::openFileDialog1 ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_ItemsList ->  
+	System.Windows.Forms.ComboBox [Pos System]System.Windows.Forms.ComboBox Pos_System.MainForm::ComboItemName ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label1 ->  
+	Bunifu.UI.WinForms.BunifuPictureBox [Pos System]Bunifu.UI.WinForms.BunifuPictureBox Pos_System.MainForm::ItemPhoto ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label2 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_AddItem ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteItem ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label3 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu6 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu5 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu4 ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu4 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label4 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteProduct ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_EditProduct ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_AddProduct ->  
+	Bunifu.UI.WinForms.BunifuPictureBox [Pos System]Bunifu.UI.WinForms.BunifuPictureBox Pos_System.MainForm::ProductPhoto ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label5 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label6 ->  
+	System.Windows.Forms.ComboBox [Pos System]System.Windows.Forms.ComboBox Pos_System.MainForm::ComboItemName2 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label7 ->  
+	System.Windows.Forms.ComboBox [Pos System]System.Windows.Forms.ComboBox Pos_System.MainForm::ComboProductName ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label8 ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::TextProductPrice ->  
+	Bunifu.UI.WinForms.BunifuDataGridView [Pos System]Bunifu.UI.WinForms.BunifuDataGridView Pos_System.MainForm::DataGridOrder ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotal ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_AddInvoice ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_PrintInvoice ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelInvoiceNumber ->  
+	System.Windows.Forms.ContextMenuStrip [Pos System]System.Windows.Forms.ContextMenuStrip Pos_System.MainForm::contextMenuStrip1 ->  
+	System.Windows.Forms.ToolStripMenuItem [Pos System]System.Windows.Forms.ToolStripMenuItem Pos_System.MainForm::حذفToolStripMenuItem ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_ClearRows -> ​
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu5 ->  
+	System.ComponentModel.BackgroundWorker [Pos System]System.ComponentModel.BackgroundWorker Pos_System.MainForm::ItemsLoadWorker ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu2 ->  
+	Bunifu.UI.WinForms.BunifuDatePicker [Pos System]Bunifu.UI.WinForms.BunifuDatePicker Pos_System.MainForm::DatePicker1 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label10 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_SalesReport -> ‐
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label11 ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::text_ResName ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label12 -> ​
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label15 -> ‐
+	Bunifu.UI.WinForms.BunifuPictureBox [Pos System]Bunifu.UI.WinForms.BunifuPictureBox Pos_System.MainForm::Logo ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::text_ResPhone ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label14 -> ‑
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::text_ResAddress ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label13 -> ‒
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_SaveResInfo -> ‑
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label17 -> –
+	Bunifu.UI.WinForms.BunifuCheckBox [Pos System]Bunifu.UI.WinForms.BunifuCheckBox Pos_System.MainForm::CheckBoxWithoutPhoto1 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label18 -> —
+	Bunifu.UI.WinForms.BunifuCheckBox [Pos System]Bunifu.UI.WinForms.BunifuCheckBox Pos_System.MainForm::CheckBoxWithoutPhoto2 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu7 -> ‒
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllAndReset -> –
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label16 -> ―
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu7 ->  
+	Bunifu.UI.WinForms.BunifuImageButton [Pos System]Bunifu.UI.WinForms.BunifuImageButton Pos_System.MainForm::ImageButtonFacebook ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label21 -> •
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label20 -> ․
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label19 -> ‥
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::bunifuTextBox1 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label23 -> ‧
+	System.Windows.Forms.TextBox [Pos System]System.Windows.Forms.TextBox Pos_System.MainForm::InvoiceNum ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllInfo -> —
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllProducts -> ―
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllItems -> •
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllInvoiceAndSales -> ․
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTitle ->  
+	Bunifu.UI.WinForms.BunifuPictureBox [Pos System]Bunifu.UI.WinForms.BunifuPictureBox Pos_System.MainForm::PictureBoxLogo ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label22 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label24 -> ‪
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label25 -> ‫
+	Bunifu.UI.WinForms.BunifuCheckBox [Pos System]Bunifu.UI.WinForms.BunifuCheckBox Pos_System.MainForm::CheckBoxShowPassword ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::textPassword ->  
+	Bunifu.UI.WinForms.BunifuSeparator [Pos System]Bunifu.UI.WinForms.BunifuSeparator Pos_System.MainForm::bunifuSeparator1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Logout -> ‥
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_GetLastInvoice -> ‧
+	Bunifu.UI.WinForms.BunifuDataGridView [Pos System]Bunifu.UI.WinForms.BunifuDataGridView Pos_System.MainForm::DataGridSales ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_FirstPage ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_LastPage ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_PrevPage -> ‪
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_NextPage -> ‫
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelPages -> ‬
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label27 -> ‭
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label26 -> ‮
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelAllTotal ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotalToday -> ′
+	System.Windows.Forms.ToolStripMenuItem [Pos System]System.Windows.Forms.ToolStripMenuItem Pos_System.MainForm::نسخToolStripMenuItem ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_SearchByDate -> ‬
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label28 -> ‵
+	System.Windows.Forms.Timer [Pos System]System.Windows.Forms.Timer Pos_System.MainForm::Trial ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label29 -> ″
+	Bunifu.UI.WinForms.BunifuCheckBox [Pos System]Bunifu.UI.WinForms.BunifuCheckBox Pos_System.MainForm::CheckBoxNoLogo ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAccount -> ‭
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_AddAccount -> ‮
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_EditAccount ->  
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu6 ->  
+	System.Windows.Forms.Timer [Pos System]System.Windows.Forms.Timer Pos_System.MainForm::LoginTimer ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::text_ResPhone2 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_LoadItems -> ′
+	Bunifu.UI.WinForms.BunifuProgressBar [Pos System]Bunifu.UI.WinForms.BunifuProgressBar Pos_System.MainForm::LoadItemsProgress ->  
+	System.Windows.Forms.ColorDialog [Pos System]System.Windows.Forms.ColorDialog Pos_System.MainForm::colorDialog1 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label30 -> ‶
+	Bunifu.UI.WinForms.BunifuColorTransition [Pos System]Bunifu.UI.WinForms.BunifuColorTransition Pos_System.MainForm::bunifuColorTransition1 ->  
+	Bunifu.UI.WinForms.BunifuDropdown [Pos System]Bunifu.UI.WinForms.BunifuDropdown Pos_System.MainForm::SelectUserName ->  
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::textUserName ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelSelectUser -> ‾
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu8 -> ‵
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu8 ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label31 -> ⁇
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label34 -> ⁈
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::textPurchaseAmount ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label32 -> ⁉
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::textPurchasePrice ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label33 -> ⁊
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label35 -> ⁋
+	Bunifu.UI.WinForms.BunifuDatePicker [Pos System]Bunifu.UI.WinForms.BunifuDatePicker Pos_System.MainForm::PurchaseDatePicker ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeletePurchase -> ″
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_EditPurchase -> ‶
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_AddPurchase -> ‾
+	System.Windows.Forms.ComboBox [Pos System]System.Windows.Forms.ComboBox Pos_System.MainForm::ComboPurchaseName ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelAllTodayProfit -> ⁌
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label38 -> ⁍
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelAllProfits -> ⁎
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label37 -> ⁏
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Menu9 -> ⁇
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm::Panel_Menu9 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Deposit -> ⁈
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_Withdraw -> ⁉
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label40 -> ⁐
+	Bunifu.UI.WinForms.BunifuTextBox [Pos System]Bunifu.UI.WinForms.BunifuTextBox Pos_System.MainForm::textCash ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label42 -> ⁑
+	Bunifu.UI.WinForms.BunifuDataGridView [Pos System]Bunifu.UI.WinForms.BunifuDataGridView Pos_System.MainForm::DataGridWallet ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelWalletPageNumber -> ⁒
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_WalletPrevPage -> ⁊
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_WalletNextPage -> ⁋
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_WalletFirstPage -> ⁌
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_WalletLastPage -> ⁍
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm::Btn_DeleteAllPurchases -> ⁎
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelWalletTotal -> ⁓
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label39 -> ⁔
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotalProfitsYearly -> ⁕
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label46 -> ⁖
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotalYearly -> ⁗
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label48 -> ⁘
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotalProfitsMonthly -> ⁙
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label41 -> ⁚
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::LabelTotalMonthly -> ⁛
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.MainForm::label44 -> ⁜
+	System.Windows.Forms.Timer [Pos System]System.Windows.Forms.Timer Pos_System.MainForm::SaveData ->  
+	System.Windows.Forms.Timer [Pos System]System.Windows.Forms.Timer Pos_System.MainForm::CLearMemory ->  
+}
+
+[Pos System]Pos_System.AmountForm -> [Pos System] . 
+{
+	[Pos System]Pos_System.AmountForm::Numbers_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_0_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_2_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_3_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_4_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_5_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_6_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_7_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_8_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_9_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_OK_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_Clear_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Numbers_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Numbers_KeyPress[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyPressEventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::AmountForm_KeyDown[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyEventArgs ) ->  
+	[Pos System]Pos_System.AmountForm::Btn_Backspace_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> ​
+	[Pos System]Pos_System.AmountForm::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.AmountForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.AmountForm::.ctor[0]( ) skipped:  special name
+
+	System.Double [Pos System]System.Double Pos_System.AmountForm::amount ->  
+	System.String [Pos System]System.String Pos_System.AmountForm::name ->  
+	System.Double [Pos System]System.Double Pos_System.AmountForm::price ->  
+	System.Double [Pos System]System.Double Pos_System.AmountForm::fulltotal ->  
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.AmountForm::components ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_2 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_3 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_0 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_4 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_5 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_6 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_7 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_8 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_9 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_OK ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_Clear ->  
+	System.Windows.Forms.Label [Pos System]System.Windows.Forms.Label Pos_System.AmountForm::label1 ->  
+	System.Windows.Forms.Panel [Pos System]System.Windows.Forms.Panel Pos_System.AmountForm::panel1 ->  
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.AmountForm::Btn_Backspace ->  
+	System.Windows.Forms.TextBox [Pos System]System.Windows.Forms.TextBox Pos_System.AmountForm::TextView ->  
+}
+
+[Pos System]Pos_System.posdataDataSet -> [Pos System] . 
+{
+	[Pos System]Pos_System.posdataDataSet::get_invoice[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_items[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_products[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_restaurant_info[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_sales[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_Tables[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::get_Relations[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::InitVars[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSet::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializeinvoice[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializeitems[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializeproducts[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializerestaurant_info[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializesales[0]( ) -> ​
+	[Pos System]Pos_System.posdataDataSet::SchemaChanged[2]( [mscorlib]System.Object, [System]System.ComponentModel.CollectionChangeEventArgs ) ->  
+	[Pos System]Pos_System.posdataDataSet::GetTypedDataSetSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet::get_SchemaSerializationMode[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::set_SchemaSerializationMode[1]( [System.Data]System.Data.SchemaSerializationMode ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::InitializeDerivedDataSet[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializeTables[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::ShouldSerializeRelations[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::ReadXmlSerializable[1]( [System.Xml]System.Xml.XmlReader ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet::GetSchemaSerializable[0]( ) skipped:  external base class or interface
+
+	Pos_System.posdataDataSet/invoiceDataTable [Pos System]Pos_System.posdataDataSet/invoiceDataTable Pos_System.posdataDataSet::tableinvoice ->  
+	Pos_System.posdataDataSet/itemsDataTable [Pos System]Pos_System.posdataDataSet/itemsDataTable Pos_System.posdataDataSet::tableitems ->  
+	Pos_System.posdataDataSet/productsDataTable [Pos System]Pos_System.posdataDataSet/productsDataTable Pos_System.posdataDataSet::tableproducts ->  
+	Pos_System.posdataDataSet/restaurant_infoDataTable [Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable Pos_System.posdataDataSet::tablerestaurant_info ->  
+	Pos_System.posdataDataSet/salesDataTable [Pos System]Pos_System.posdataDataSet/salesDataTable Pos_System.posdataDataSet::tablesales ->  
+	System.Data.SchemaSerializationMode [Pos System]System.Data.SchemaSerializationMode Pos_System.posdataDataSet::_schemaSerializationMode ->  
+
+	Pos_System.posdataDataSet/invoiceDataTable [Pos System]Pos_System.posdataDataSet/invoiceDataTable Pos_System.posdataDataSet::invoice ->  
+	Pos_System.posdataDataSet/itemsDataTable [Pos System]Pos_System.posdataDataSet/itemsDataTable Pos_System.posdataDataSet::items ->  
+	Pos_System.posdataDataSet/productsDataTable [Pos System]Pos_System.posdataDataSet/productsDataTable Pos_System.posdataDataSet::products ->  
+	Pos_System.posdataDataSet/restaurant_infoDataTable [Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable Pos_System.posdataDataSet::restaurant_info ->  
+	Pos_System.posdataDataSet/salesDataTable [Pos System]Pos_System.posdataDataSet/salesDataTable Pos_System.posdataDataSet::sales ->  
+	System.Data.SchemaSerializationMode [Pos System]System.Data.SchemaSerializationMode Pos_System.posdataDataSet::SchemaSerializationMode ->  
+	System.Data.DataTableCollection [Pos System]System.Data.DataTableCollection Pos_System.posdataDataSet::Tables ->  
+	System.Data.DataRelationCollection [Pos System]System.Data.DataRelationCollection Pos_System.posdataDataSet::Relations ->  
+}
+
+[Pos System]Pos_System.Products -> [Pos System] . 
+{
+	[Pos System]Pos_System.Products::get_product_name[0]( ) ->  
+	[Pos System]Pos_System.Products::set_product_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Products::get_product_price[0]( ) ->  
+	[Pos System]Pos_System.Products::set_product_price[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Products::get_product_image[0]( ) ->  
+	[Pos System]Pos_System.Products::set_product_image[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Products::get_item_name[0]( ) ->  
+	[Pos System]Pos_System.Products::set_item_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Products::Insert[0]( ) ->  
+	[Pos System]Pos_System.Products::Update[0]( ) ->  
+	[Pos System]Pos_System.Products::Delete[0]( ) ->  
+	[Pos System]Pos_System.Products::CheckItemExist[0]( ) ->  
+
+	[Pos System]Pos_System.Products::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.String [Pos System]System.String Pos_System.Products::_product_name ->  
+	System.String [Pos System]System.String Pos_System.Products::_product_price ->  
+	System.String [Pos System]System.String Pos_System.Products::_product_image ->  
+	System.String [Pos System]System.String Pos_System.Products::_item_name ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Products::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Products::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Products::read ->  
+
+	System.String [Pos System]System.String Pos_System.Products::product_name -> dropped
+	System.String [Pos System]System.String Pos_System.Products::product_price -> dropped
+	System.String [Pos System]System.String Pos_System.Products::product_image -> dropped
+	System.String [Pos System]System.String Pos_System.Products::item_name -> dropped
+}
+
+[Pos System]Pos_System.Program -> [Pos System] . 
+{
+	[Pos System]Pos_System.Program::Main[0]( ) ->  
+	[Pos System]Pos_System.Program::GiveDatabasePermission[0]( ) ->  
+
+	[Pos System]Pos_System.Program::.cctor[0]( ) skipped:  special name
+
+	System.String [Pos System]System.String Pos_System.Program::trialfile ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.Program::trialtime ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.Program::IsActive ->  
+}
+
+[Pos System]Pos_System.Purchases -> [Pos System] .‐
+{
+	[Pos System]Pos_System.Purchases::get_purchase_name[0]( ) ->  
+	[Pos System]Pos_System.Purchases::set_purchase_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Purchases::get_purchase_amount[0]( ) ->  
+	[Pos System]Pos_System.Purchases::set_purchase_amount[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Purchases::get_purchase_price[0]( ) ->  
+	[Pos System]Pos_System.Purchases::set_purchase_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.Purchases::get_purchase_date[0]( ) ->  
+	[Pos System]Pos_System.Purchases::set_purchase_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Purchases::GetTotalPurchase[0]( ) ->  
+	[Pos System]Pos_System.Purchases::AddData[0]( ) ->  
+	[Pos System]Pos_System.Purchases::EditByName[0]( ) ->  
+	[Pos System]Pos_System.Purchases::DeleteByName[0]( ) ->  
+	[Pos System]Pos_System.Purchases::PurchaseNameExist[0]( ) ->  
+
+	[Pos System]Pos_System.Purchases::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Purchases::cmd ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Purchases::connect ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Purchases::read ->  
+	System.String [Pos System]System.String Pos_System.Purchases::<purchase_name>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Purchases::<purchase_amount>k__BackingField ->  
+	System.Double [Pos System]System.Double Pos_System.Purchases::<purchase_price>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Purchases::<purchase_date>k__BackingField ->  
+
+	System.String [Pos System]System.String Pos_System.Purchases::purchase_name -> dropped
+	System.String [Pos System]System.String Pos_System.Purchases::purchase_amount -> dropped
+	System.Double [Pos System]System.Double Pos_System.Purchases::purchase_price -> dropped
+	System.String [Pos System]System.String Pos_System.Purchases::purchase_date -> dropped
+}
+
+[Pos System]Pos_System.ShopInfo -> [Pos System] .‑
+{
+	[Pos System]Pos_System.ShopInfo::get_shop_name[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::set_shop_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.ShopInfo::get_shop_address[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::set_shop_address[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.ShopInfo::get_shop_tellphone[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::set_shop_tellphone[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.ShopInfo::get_shop_tellphone2[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::set_shop_tellphone2[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.ShopInfo::get_logo_path[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::set_logo_path[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.ShopInfo::HasRows[0]( ) ->  
+	[Pos System]Pos_System.ShopInfo::Save[0]( ) ->  
+
+	[Pos System]Pos_System.ShopInfo::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.ShopInfo::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.ShopInfo::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.ShopInfo::read ->  
+	System.String [Pos System]System.String Pos_System.ShopInfo::<shop_name>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.ShopInfo::<shop_address>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.ShopInfo::<shop_tellphone>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.ShopInfo::<shop_tellphone2>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.ShopInfo::<logo_path>k__BackingField ->  
+
+	System.String [Pos System]System.String Pos_System.ShopInfo::shop_name -> dropped
+	System.String [Pos System]System.String Pos_System.ShopInfo::shop_address -> dropped
+	System.String [Pos System]System.String Pos_System.ShopInfo::shop_tellphone -> dropped
+	System.String [Pos System]System.String Pos_System.ShopInfo::shop_tellphone2 -> dropped
+	System.String [Pos System]System.String Pos_System.ShopInfo::logo_path -> dropped
+}
+
+[Pos System]Pos_System.Sales -> [Pos System] .‒
+{
+	[Pos System]Pos_System.Sales::get_invoice_number[0]( ) ->  
+	[Pos System]Pos_System.Sales::set_invoice_number[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.Sales::get_sold_products[0]( ) ->  
+	[Pos System]Pos_System.Sales::set_sold_products[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::get_total_price[0]( ) ->  
+	[Pos System]Pos_System.Sales::set_total_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.Sales::get_extract_date[0]( ) ->  
+	[Pos System]Pos_System.Sales::set_extract_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::get_user_name[0]( ) ->  
+	[Pos System]Pos_System.Sales::set_user_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::Insert[0]( ) ->  
+	[Pos System]Pos_System.Sales::GetFullTotalByDate[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::GetAllTotal[0]( ) ->  
+	[Pos System]Pos_System.Sales::GetAllProfits[0]( ) ->  
+	[Pos System]Pos_System.Sales::GetProfitsByDate[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::GetMonthlyProfits[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Sales::GetLastInvoiceNumber[0]( ) ->  
+	[Pos System]Pos_System.Sales::GetAllSalesCount[0]( ) ->  
+
+	[Pos System]Pos_System.Sales::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Sales::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Sales::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Sales::read ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.Sales::<invoice_number>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Sales::<sold_products>k__BackingField ->  
+	System.Double [Pos System]System.Double Pos_System.Sales::<total_price>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Sales::<extract_date>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Sales::<user_name>k__BackingField ->  
+
+	System.Int32 [Pos System]System.Int32 Pos_System.Sales::invoice_number -> dropped
+	System.String [Pos System]System.String Pos_System.Sales::sold_products -> dropped
+	System.Double [Pos System]System.Double Pos_System.Sales::total_price -> dropped
+	System.String [Pos System]System.String Pos_System.Sales::extract_date -> dropped
+	System.String [Pos System]System.String Pos_System.Sales::user_name -> dropped
+}
+
+[Pos System]Pos_System.SalesReport -> [Pos System] .–
+{
+	[Pos System]Pos_System.SalesReport::SalesReport_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Pos System]Pos_System.SalesReport::InitializeComponent[0]( ) ->  
+
+	[Pos System]Pos_System.SalesReport::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[Pos System]Pos_System.SalesReport::.ctor[0]( ) skipped:  special name
+
+	System.ComponentModel.IContainer [Pos System]System.ComponentModel.IContainer Pos_System.SalesReport::components ->  
+	System.Windows.Forms.BindingSource [Pos System]System.Windows.Forms.BindingSource Pos_System.SalesReport::salesBindingSource ->  
+	Pos_System.posdataDataSetTableAdapters.salesTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter Pos_System.SalesReport::salesTableAdapter ->  
+	Pos_System.posdataDataSet [Pos System]Pos_System.posdataDataSet Pos_System.SalesReport::posdataDataSet ->  
+	Microsoft.Reporting.WinForms.ReportViewer [Pos System]Microsoft.Reporting.WinForms.ReportViewer Pos_System.SalesReport::reportViewer1 ->  
+}
+
+[Pos System]Pos_System.Settings -> [Pos System] .—
+{
+	[Pos System]Pos_System.Settings::DeleteInvoicesAndSales[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeleteItems[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeleteProducts[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeleteRestaurantInfo[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeleteWallet[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeletePurchases[0]( ) ->  
+	[Pos System]Pos_System.Settings::DeleteAllDataAndReset[0]( ) ->  
+
+	[Pos System]Pos_System.Settings::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Settings::connect ->  
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Settings::cmd ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Settings::read ->  
+}
+
+[Pos System]Pos_System.Wallet -> [Pos System] .―
+{
+	[Pos System]Pos_System.Wallet::get_user_name[0]( ) ->  
+	[Pos System]Pos_System.Wallet::set_user_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Wallet::get_cash[0]( ) ->  
+	[Pos System]Pos_System.Wallet::set_cash[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.Wallet::get_process_type[0]( ) ->  
+	[Pos System]Pos_System.Wallet::set_process_type[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Wallet::get_process_date[0]( ) ->  
+	[Pos System]Pos_System.Wallet::set_process_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Wallet::Add[0]( ) ->  
+	[Pos System]Pos_System.Wallet::GetAllAmount[0]( ) ->  
+	[Pos System]Pos_System.Wallet::GetAllAmountByDate[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.Wallet::GetAllWalletCount[0]( ) ->  
+
+	[Pos System]Pos_System.Wallet::.ctor[1]( [System.Data.SQLite]System.Data.SQLite.SQLiteConnection ) skipped:  special name
+
+	System.Data.SQLite.SQLiteCommand [Pos System]System.Data.SQLite.SQLiteCommand Pos_System.Wallet::cmd ->  
+	System.Data.SQLite.SQLiteConnection [Pos System]System.Data.SQLite.SQLiteConnection Pos_System.Wallet::connect ->  
+	System.Data.SQLite.SQLiteDataReader [Pos System]System.Data.SQLite.SQLiteDataReader Pos_System.Wallet::read ->  
+	System.String [Pos System]System.String Pos_System.Wallet::<user_name>k__BackingField ->  
+	System.Double [Pos System]System.Double Pos_System.Wallet::<cash>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Wallet::<process_type>k__BackingField ->  
+	System.String [Pos System]System.String Pos_System.Wallet::<process_date>k__BackingField ->  
+
+	System.String [Pos System]System.String Pos_System.Wallet::user_name -> dropped
+	System.Double [Pos System]System.Double Pos_System.Wallet::cash -> dropped
+	System.String [Pos System]System.String Pos_System.Wallet::process_type -> dropped
+	System.String [Pos System]System.String Pos_System.Wallet::process_date -> dropped
+}
+
+[Pos System]Pos_System.Properties.Resources -> [Pos System] .•
+{
+	[Pos System]Pos_System.Properties.Resources::get_ResourceManager[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_Culture[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_bank[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_cart[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_chart[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_facebook[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_fastfood[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_food[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_info[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_invoice[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_items[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_no[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_restaurant[0]( ) ->  
+	[Pos System]Pos_System.Properties.Resources::get_settings[0]( ) -> ​
+	[Pos System]Pos_System.Properties.Resources::get_shop_photo[0]( ) -> ‐
+
+	[Pos System]Pos_System.Properties.Resources::.ctor[0]( ) skipped:  special name
+
+	System.Resources.ResourceManager [Pos System]System.Resources.ResourceManager Pos_System.Properties.Resources::resourceMan ->  
+	System.Globalization.CultureInfo [Pos System]System.Globalization.CultureInfo Pos_System.Properties.Resources::resourceCulture ->  
+
+	System.Resources.ResourceManager [Pos System]System.Resources.ResourceManager Pos_System.Properties.Resources::ResourceManager ->  
+	System.Globalization.CultureInfo [Pos System]System.Globalization.CultureInfo Pos_System.Properties.Resources::Culture ->  
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::bank -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::cart -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::chart -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::facebook -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::fastfood -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::food -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::info -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::invoice -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::items -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::no -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::restaurant -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::settings -> dropped
+	System.Drawing.Bitmap [Pos System]System.Drawing.Bitmap Pos_System.Properties.Resources::shop_photo -> dropped
+}
+
+[Pos System]Pos_System.Properties.Settings -> [Pos System] .․
+{
+	[Pos System]Pos_System.Properties.Settings::get_Default[0]( ) ->  
+	[Pos System]Pos_System.Properties.Settings::get_dataConnectionString[0]( ) ->  
+	[Pos System]Pos_System.Properties.Settings::get_posdataConnectionString[0]( ) ->  
+
+	[Pos System]Pos_System.Properties.Settings::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.Properties.Settings::.cctor[0]( ) skipped:  special name
+
+	Pos_System.Properties.Settings [Pos System]Pos_System.Properties.Settings Pos_System.Properties.Settings::defaultInstance ->  
+
+	Pos_System.Properties.Settings [Pos System]Pos_System.Properties.Settings Pos_System.Properties.Settings::Default -> dropped
+	System.String [Pos System]System.String Pos_System.Properties.Settings::dataConnectionString ->  
+	System.String [Pos System]System.String Pos_System.Properties.Settings::posdataConnectionString ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter -> [Pos System] .‥
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::get_Adapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::set_Connection[1]( [System.Data]System.Data.SqlClient.SqlConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::get_Transaction[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::set_Transaction[1]( [System.Data]System.Data.SqlClient.SqlTransaction ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::get_CommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::get_ClearBeforeFill[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::set_ClearBeforeFill[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::InitAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::InitConnection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::InitCommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Fill[1]( [Pos System]Pos_System.posdataDataSet/invoiceDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::GetData[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet/invoiceDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[1]( [System.Data]System.Data.DataRow ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[1]( [System.Data]System.Data.DataRow[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Delete[7]( [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Insert[6]( [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[14]( [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String, [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String, [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Update[13]( [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String, [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Int32>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::.ctor[0]( ) skipped:  special name
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::_adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::_connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::_transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::_commandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::_clearBeforeFill ->  
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::Transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::CommandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter::ClearBeforeFill ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter -> [Pos System] .‧
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::get_Adapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::set_Connection[1]( [System.Data]System.Data.SqlClient.SqlConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::get_Transaction[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::set_Transaction[1]( [System.Data]System.Data.SqlClient.SqlTransaction ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::get_CommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::get_ClearBeforeFill[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::set_ClearBeforeFill[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::InitAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::InitConnection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::InitCommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Fill[1]( [Pos System]Pos_System.posdataDataSet/itemsDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::GetData[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet/itemsDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[1]( [System.Data]System.Data.DataRow ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[1]( [System.Data]System.Data.DataRow[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Delete[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Insert[2]( [mscorlib]System.String, [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[3]( [mscorlib]System.String, [mscorlib]System.Byte[], [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Update[2]( [mscorlib]System.Byte[], [mscorlib]System.String ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::.ctor[0]( ) skipped:  special name
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::_adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::_connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::_transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::_commandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::_clearBeforeFill ->  
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::Transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::CommandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.itemsTableAdapter::ClearBeforeFill ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter -> [Pos System] . 
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::get_Adapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::set_Connection[1]( [System.Data]System.Data.SqlClient.SqlConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::get_Transaction[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::set_Transaction[1]( [System.Data]System.Data.SqlClient.SqlTransaction ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::get_CommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::get_ClearBeforeFill[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::set_ClearBeforeFill[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::InitAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::InitConnection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::InitCommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Fill[1]( [Pos System]Pos_System.posdataDataSet/productsDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::GetData[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet/productsDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[1]( [System.Data]System.Data.DataRow ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[1]( [System.Data]System.Data.DataRow[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Delete[3]( [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Insert[4]( [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Byte[], [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[7]( [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Byte[], [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Update[6]( [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.Byte[], [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter::.ctor[0]( ) skipped:  special name
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.productsTableAdapter::_adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.productsTableAdapter::_connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.productsTableAdapter::_transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.productsTableAdapter::_commandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.productsTableAdapter::_clearBeforeFill ->  
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.productsTableAdapter::Transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.productsTableAdapter::CommandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.productsTableAdapter::ClearBeforeFill ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter -> [Pos System] . 
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::get_Adapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::set_Connection[1]( [System.Data]System.Data.SqlClient.SqlConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::get_Transaction[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::set_Transaction[1]( [System.Data]System.Data.SqlClient.SqlTransaction ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::get_CommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::get_ClearBeforeFill[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::set_ClearBeforeFill[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::InitAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::InitConnection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::InitCommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Fill[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::GetData[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[1]( [System.Data]System.Data.DataRow ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[1]( [System.Data]System.Data.DataRow[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Delete[3]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Insert[4]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[7]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Byte[], [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Update[6]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Byte[], [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::.ctor[0]( ) skipped:  special name
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::_adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::_connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::_transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::_commandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::_clearBeforeFill ->  
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::Transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::CommandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter::ClearBeforeFill ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter -> [Pos System] .‪
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::get_Adapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::set_Connection[1]( [System.Data]System.Data.SqlClient.SqlConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::get_Transaction[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::set_Transaction[1]( [System.Data]System.Data.SqlClient.SqlTransaction ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::get_CommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::get_ClearBeforeFill[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::set_ClearBeforeFill[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::InitAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::InitConnection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::InitCommandCollection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Fill[1]( [Pos System]Pos_System.posdataDataSet/salesDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::GetData[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet/salesDataTable ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[1]( [System.Data]System.Data.DataRow ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[1]( [System.Data]System.Data.DataRow[] ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Delete[2]( [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Double> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Insert[4]( [mscorlib]System.Int32, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[6]( [mscorlib]System.Int32, [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String, [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Double> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Update[5]( [mscorlib]System.String, [mscorlib]System.Nullable`1<[mscorlib]System.Double>, [mscorlib]System.String, [mscorlib]System.Int32, [mscorlib]System.Nullable`1<[mscorlib]System.Double> ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter::.ctor[0]( ) skipped:  special name
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.salesTableAdapter::_adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.salesTableAdapter::_connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.salesTableAdapter::_transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.salesTableAdapter::_commandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.salesTableAdapter::_clearBeforeFill ->  
+
+	System.Data.SqlClient.SqlDataAdapter [Pos System]System.Data.SqlClient.SqlDataAdapter Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Adapter ->  
+	System.Data.SqlClient.SqlConnection [Pos System]System.Data.SqlClient.SqlConnection Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Connection ->  
+	System.Data.SqlClient.SqlTransaction [Pos System]System.Data.SqlClient.SqlTransaction Pos_System.posdataDataSetTableAdapters.salesTableAdapter::Transaction ->  
+	System.Data.SqlClient.SqlCommand[] [Pos System]System.Data.SqlClient.SqlCommand[] Pos_System.posdataDataSetTableAdapters.salesTableAdapter::CommandCollection ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.salesTableAdapter::ClearBeforeFill ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager -> [Pos System] .‫
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_UpdateOrder[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_UpdateOrder[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_invoiceTableAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_invoiceTableAdapter[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_itemsTableAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_itemsTableAdapter[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_productsTableAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_productsTableAdapter[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_restaurant_infoTableAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_restaurant_infoTableAdapter[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_salesTableAdapter[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_salesTableAdapter[1]( [Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_BackupDataSetBeforeUpdate[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_BackupDataSetBeforeUpdate[1]( [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_Connection[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::set_Connection[1]( [System.Data]System.Data.IDbConnection ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::get_TableAdapterInstanceCount[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::UpdateUpdatedRows[3]( [Pos System]Pos_System.posdataDataSet, [mscorlib]System.Collections.Generic.List`1<[System.Data]System.Data.DataRow>, [mscorlib]System.Collections.Generic.List`1<[System.Data]System.Data.DataRow> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::UpdateInsertedRows[2]( [Pos System]Pos_System.posdataDataSet, [mscorlib]System.Collections.Generic.List`1<[System.Data]System.Data.DataRow> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::UpdateDeletedRows[2]( [Pos System]Pos_System.posdataDataSet, [mscorlib]System.Collections.Generic.List`1<[System.Data]System.Data.DataRow> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::GetRealUpdatedRows[2]( [System.Data]System.Data.DataRow[], [mscorlib]System.Collections.Generic.List`1<[System.Data]System.Data.DataRow> ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::UpdateAll[1]( [Pos System]Pos_System.posdataDataSet ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::SortSelfReferenceRows[3]( [System.Data]System.Data.DataRow[], [System.Data]System.Data.DataRelation, [mscorlib]System.Boolean ) ->  
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::MatchTableAdapterConnection[1]( [System.Data]System.Data.IDbConnection ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager::.ctor[0]( ) skipped:  special name
+
+	Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption [Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_updateOrder ->  
+	Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_invoiceTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.itemsTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_itemsTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.productsTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_productsTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_restaurant_infoTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.salesTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_salesTableAdapter ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_backupDataSetBeforeUpdate ->  
+	System.Data.IDbConnection [Pos System]System.Data.IDbConnection Pos_System.posdataDataSetTableAdapters.TableAdapterManager::_connection ->  
+
+	Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption [Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption Pos_System.posdataDataSetTableAdapters.TableAdapterManager::UpdateOrder ->  
+	Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.invoiceTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::invoiceTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.itemsTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.itemsTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::itemsTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.productsTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.productsTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::productsTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.restaurant_infoTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::restaurant_infoTableAdapter ->  
+	Pos_System.posdataDataSetTableAdapters.salesTableAdapter [Pos System]Pos_System.posdataDataSetTableAdapters.salesTableAdapter Pos_System.posdataDataSetTableAdapters.TableAdapterManager::salesTableAdapter ->  
+	System.Boolean [Pos System]System.Boolean Pos_System.posdataDataSetTableAdapters.TableAdapterManager::BackupDataSetBeforeUpdate ->  
+	System.Data.IDbConnection [Pos System]System.Data.IDbConnection Pos_System.posdataDataSetTableAdapters.TableAdapterManager::Connection ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSetTableAdapters.TableAdapterManager::TableAdapterInstanceCount ->  
+}
+
+[Pos System]Pos_System.MainForm/<>c__DisplayClass32_0 -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.MainForm/<>c__DisplayClass32_0::.ctor[0]( ) skipped:  special name
+
+	Bunifu.UI.WinForms.BunifuPanel [Pos System]Bunifu.UI.WinForms.BunifuPanel Pos_System.MainForm/<>c__DisplayClass32_0::ProductsPanel ->  
+	Pos_System.MainForm [Pos System]Pos_System.MainForm Pos_System.MainForm/<>c__DisplayClass32_0::<>4__this ->  
+}
+
+[Pos System]Pos_System.MainForm/<>c__DisplayClass32_1 -> [Pos System] . / 
+{
+	[Pos System]Pos_System.MainForm/<>c__DisplayClass32_1::<PutAllItemsAndProducts>b__0[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+
+	[Pos System]Pos_System.MainForm/<>c__DisplayClass32_1::.ctor[0]( ) skipped:  special name
+
+	Bunifu.UI.WinForms.BunifuButton.BunifuButton [Pos System]Bunifu.UI.WinForms.BunifuButton.BunifuButton Pos_System.MainForm/<>c__DisplayClass32_1::button ->  
+	Pos_System.MainForm/<>c__DisplayClass32_0 [Pos System]Pos_System.MainForm/<>c__DisplayClass32_0 Pos_System.MainForm/<>c__DisplayClass32_1::CS$<>8__locals1 ->  
+}
+
+[Pos System]Pos_System.MainForm/<>c__DisplayClass32_2 -> [Pos System] . / 
+{
+	[Pos System]Pos_System.MainForm/<>c__DisplayClass32_2::<PutAllItemsAndProducts>b__1[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+
+	[Pos System]Pos_System.MainForm/<>c__DisplayClass32_2::.ctor[0]( ) skipped:  special name
+
+	System.String [Pos System]System.String Pos_System.MainForm/<>c__DisplayClass32_2::productname ->  
+	System.Double [Pos System]System.Double Pos_System.MainForm/<>c__DisplayClass32_2::productprice ->  
+	Pos_System.MainForm/<>c__DisplayClass32_1 [Pos System]Pos_System.MainForm/<>c__DisplayClass32_1 Pos_System.MainForm/<>c__DisplayClass32_2::CS$<>8__locals2 ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/invoiceDataTable -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_idColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_invoice_numberColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_product_nameColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_product_amountColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_product_priceColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_total_priceColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_extract_dateColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_Count[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::get_Item[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::add_invoiceRowChanging[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::remove_invoiceRowChanging[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::add_invoiceRowChanged[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::remove_invoiceRowChanged[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::add_invoiceRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::remove_invoiceRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::add_invoiceRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::remove_invoiceRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::AddinvoiceRow[1]( [Pos System]Pos_System.posdataDataSet/invoiceRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::AddinvoiceRow[6]( [mscorlib]System.Int32, [mscorlib]System.String, [mscorlib]System.Int32, [mscorlib]System.Double, [mscorlib]System.Double, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::FindByid[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::NewinvoiceRow[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::RemoveinvoiceRow[1]( [Pos System]Pos_System.posdataDataSet/invoiceRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::GetTypedTableSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::.ctor[1]( [System.Data]System.Data.DataTable ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::CreateInstance[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::NewRowFromBuilder[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::GetRowType[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::OnRowChanged[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::OnRowChanging[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::OnRowDeleted[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/invoiceDataTable::OnRowDeleting[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columnid ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columninvoice_number ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columnproduct_name ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columnproduct_amount ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columnproduct_price ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columntotal_price ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::columnextract_date ->  
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowChanging ->  
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowChanged ->  
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowDeleting ->  
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowDeleted ->  
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::idColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::invoice_numberColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::product_nameColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::product_amountColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::product_priceColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::total_priceColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/invoiceDataTable::extract_dateColumn ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/invoiceDataTable::Count ->  
+	Pos_System.posdataDataSet/invoiceRow [Pos System]Pos_System.posdataDataSet/invoiceRow Pos_System.posdataDataSet/invoiceDataTable::Item ->  
+
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowChanging -> dropped
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowChanged -> dropped
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowDeleting -> dropped
+	Pos_System.posdataDataSet/invoiceRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler Pos_System.posdataDataSet/invoiceDataTable::invoiceRowDeleted -> dropped
+}
+
+[Pos System]Pos_System.posdataDataSet/itemsDataTable -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::get_item_nameColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::get_item_imageColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::get_Count[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::get_Item[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::add_itemsRowChanging[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::remove_itemsRowChanging[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::add_itemsRowChanged[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::remove_itemsRowChanged[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::add_itemsRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::remove_itemsRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::add_itemsRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::remove_itemsRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::AdditemsRow[1]( [Pos System]Pos_System.posdataDataSet/itemsRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::AdditemsRow[2]( [mscorlib]System.String, [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::FindByitem_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::NewitemsRow[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::RemoveitemsRow[1]( [Pos System]Pos_System.posdataDataSet/itemsRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::GetTypedTableSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::CreateInstance[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::NewRowFromBuilder[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::GetRowType[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::OnRowChanged[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::OnRowChanging[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::OnRowDeleted[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::OnRowDeleting[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::.ctor[1]( [System.Data]System.Data.DataTable ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/itemsDataTable::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/itemsDataTable::columnitem_name ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/itemsDataTable::columnitem_image ->  
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowChanging ->  
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowChanged ->  
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowDeleting ->  
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowDeleted ->  
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/itemsDataTable::item_nameColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/itemsDataTable::item_imageColumn ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/itemsDataTable::Count ->  
+	Pos_System.posdataDataSet/itemsRow [Pos System]Pos_System.posdataDataSet/itemsRow Pos_System.posdataDataSet/itemsDataTable::Item ->  
+
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowChanging -> dropped
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowChanged -> dropped
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowDeleting -> dropped
+	Pos_System.posdataDataSet/itemsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler Pos_System.posdataDataSet/itemsDataTable::itemsRowDeleted -> dropped
+}
+
+[Pos System]Pos_System.posdataDataSet/productsDataTable -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_product_nameColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_product_priceColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_product_imageColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_item_nameColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_Count[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::get_Item[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::add_productsRowChanging[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::remove_productsRowChanging[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::add_productsRowChanged[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::remove_productsRowChanged[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::add_productsRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::remove_productsRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::add_productsRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::remove_productsRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::AddproductsRow[1]( [Pos System]Pos_System.posdataDataSet/productsRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::AddproductsRow[4]( [mscorlib]System.String, [mscorlib]System.Double, [mscorlib]System.Byte[], [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::FindByproduct_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::NewproductsRow[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::RemoveproductsRow[1]( [Pos System]Pos_System.posdataDataSet/productsRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::GetTypedTableSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::CreateInstance[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::NewRowFromBuilder[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::GetRowType[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::OnRowChanged[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::OnRowChanging[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::OnRowDeleted[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::OnRowDeleting[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::.ctor[1]( [System.Data]System.Data.DataTable ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/productsDataTable::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::columnproduct_name ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::columnproduct_price ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::columnproduct_image ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::columnitem_name ->  
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowChanging ->  
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowChanged ->  
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowDeleting ->  
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowDeleted ->  
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::product_nameColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::product_priceColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::product_imageColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/productsDataTable::item_nameColumn ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/productsDataTable::Count ->  
+	Pos_System.posdataDataSet/productsRow [Pos System]Pos_System.posdataDataSet/productsRow Pos_System.posdataDataSet/productsDataTable::Item ->  
+
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowChanging -> dropped
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowChanged -> dropped
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowDeleting -> dropped
+	Pos_System.posdataDataSet/productsRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler Pos_System.posdataDataSet/productsDataTable::productsRowDeleted -> dropped
+}
+
+[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_restaurant_nameColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_restaurant_addressColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_restaurant_tellphoneColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_restaurant_logoColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_Count[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::get_Item[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::add_restaurant_infoRowChanging[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::remove_restaurant_infoRowChanging[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::add_restaurant_infoRowChanged[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::remove_restaurant_infoRowChanged[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::add_restaurant_infoRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::remove_restaurant_infoRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::add_restaurant_infoRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::remove_restaurant_infoRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::Addrestaurant_infoRow[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::Addrestaurant_infoRow[4]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::FindByrestaurant_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::Newrestaurant_infoRow[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::Removerestaurant_infoRow[1]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::GetTypedTableSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::CreateInstance[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::NewRowFromBuilder[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::GetRowType[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::OnRowChanged[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::OnRowChanging[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::OnRowDeleted[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::OnRowDeleting[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::.ctor[1]( [System.Data]System.Data.DataTable ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::columnrestaurant_name ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::columnrestaurant_address ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::columnrestaurant_tellphone ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::columnrestaurant_logo ->  
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowChanging ->  
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowChanged ->  
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowDeleting ->  
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowDeleted ->  
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_nameColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_addressColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_tellphoneColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_logoColumn ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/restaurant_infoDataTable::Count ->  
+	Pos_System.posdataDataSet/restaurant_infoRow [Pos System]Pos_System.posdataDataSet/restaurant_infoRow Pos_System.posdataDataSet/restaurant_infoDataTable::Item ->  
+
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowChanging -> dropped
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowChanged -> dropped
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowDeleting -> dropped
+	Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler Pos_System.posdataDataSet/restaurant_infoDataTable::restaurant_infoRowDeleted -> dropped
+}
+
+[Pos System]Pos_System.posdataDataSet/salesDataTable -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_invoice_numberColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_sold_productsColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_total_priceColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_extract_dateColumn[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_Count[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::get_Item[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::add_salesRowChanging[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::remove_salesRowChanging[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::add_salesRowChanged[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::remove_salesRowChanged[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::add_salesRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::remove_salesRowDeleting[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::add_salesRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::remove_salesRowDeleted[1]( [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::AddsalesRow[1]( [Pos System]Pos_System.posdataDataSet/salesRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::AddsalesRow[4]( [mscorlib]System.Int32, [mscorlib]System.String, [mscorlib]System.Double, [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::FindByinvoice_number[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::InitVars[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::InitClass[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::NewsalesRow[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::RemovesalesRow[1]( [Pos System]Pos_System.posdataDataSet/salesRow ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::GetTypedTableSchema[1]( [System.Xml]System.Xml.Schema.XmlSchemaSet ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::Clone[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::CreateInstance[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::NewRowFromBuilder[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::GetRowType[0]( ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::OnRowChanged[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::OnRowChanging[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::OnRowDeleted[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::OnRowDeleting[1]( [System.Data]System.Data.DataRowChangeEventArgs ) skipped:  external base class or interface
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::.ctor[0]( ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::.ctor[1]( [System.Data]System.Data.DataTable ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSet/salesDataTable::.ctor[2]( [mscorlib]System.Runtime.Serialization.SerializationInfo, [mscorlib]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::columninvoice_number ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::columnsold_products ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::columntotal_price ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::columnextract_date ->  
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowChanging ->  
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowChanged ->  
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowDeleting ->  
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowDeleted ->  
+
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::invoice_numberColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::sold_productsColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::total_priceColumn ->  
+	System.Data.DataColumn [Pos System]System.Data.DataColumn Pos_System.posdataDataSet/salesDataTable::extract_dateColumn ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/salesDataTable::Count ->  
+	Pos_System.posdataDataSet/salesRow [Pos System]Pos_System.posdataDataSet/salesRow Pos_System.posdataDataSet/salesDataTable::Item ->  
+
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowChanging -> dropped
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowChanged -> dropped
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowDeleting -> dropped
+	Pos_System.posdataDataSet/salesRowChangeEventHandler [Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler Pos_System.posdataDataSet/salesDataTable::salesRowDeleted -> dropped
+}
+
+[Pos System]Pos_System.posdataDataSet/invoiceRow -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_id[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_id[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_invoice_number[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_invoice_number[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_product_name[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_product_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_product_amount[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_product_amount[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_product_price[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_product_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_total_price[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_total_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::get_extract_date[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::set_extract_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Isinvoice_numberNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Setinvoice_numberNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Isproduct_nameNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Setproduct_nameNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Isproduct_amountNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Setproduct_amountNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Isproduct_priceNull[0]( ) -> ​
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Setproduct_priceNull[0]( ) -> ‐
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Istotal_priceNull[0]( ) -> ‑
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Settotal_priceNull[0]( ) -> ‒
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Isextract_dateNull[0]( ) -> –
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::Setextract_dateNull[0]( ) -> —
+
+	[Pos System]Pos_System.posdataDataSet/invoiceRow::.ctor[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  special name
+
+	Pos_System.posdataDataSet/invoiceDataTable [Pos System]Pos_System.posdataDataSet/invoiceDataTable Pos_System.posdataDataSet/invoiceRow::tableinvoice ->  
+
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/invoiceRow::id ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/invoiceRow::invoice_number ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/invoiceRow::product_name ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/invoiceRow::product_amount ->  
+	System.Double [Pos System]System.Double Pos_System.posdataDataSet/invoiceRow::product_price ->  
+	System.Double [Pos System]System.Double Pos_System.posdataDataSet/invoiceRow::total_price ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/invoiceRow::extract_date ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/itemsRow -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/itemsRow::get_item_name[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRow::set_item_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRow::get_item_image[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRow::set_item_image[1]( [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRow::Isitem_imageNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRow::Setitem_imageNull[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/itemsRow::.ctor[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  special name
+
+	Pos_System.posdataDataSet/itemsDataTable [Pos System]Pos_System.posdataDataSet/itemsDataTable Pos_System.posdataDataSet/itemsRow::tableitems ->  
+
+	System.String [Pos System]System.String Pos_System.posdataDataSet/itemsRow::item_name ->  
+	System.Byte[] [Pos System]System.Byte[] Pos_System.posdataDataSet/itemsRow::item_image ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/productsRow -> [Pos System] . / 
+{
+	[Pos System]Pos_System.posdataDataSet/productsRow::get_product_name[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::set_product_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::get_product_price[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::set_product_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::get_product_image[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::set_product_image[1]( [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::get_item_name[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::set_item_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Isproduct_priceNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Setproduct_priceNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Isproduct_imageNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Setproduct_imageNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Isitem_nameNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRow::Setitem_nameNull[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/productsRow::.ctor[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  special name
+
+	Pos_System.posdataDataSet/productsDataTable [Pos System]Pos_System.posdataDataSet/productsDataTable Pos_System.posdataDataSet/productsRow::tableproducts ->  
+
+	System.String [Pos System]System.String Pos_System.posdataDataSet/productsRow::product_name ->  
+	System.Double [Pos System]System.Double Pos_System.posdataDataSet/productsRow::product_price ->  
+	System.Byte[] [Pos System]System.Byte[] Pos_System.posdataDataSet/productsRow::product_image ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/productsRow::item_name ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/restaurant_infoRow -> [Pos System] . /​
+{
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::get_restaurant_name[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::set_restaurant_name[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::get_restaurant_address[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::set_restaurant_address[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::get_restaurant_tellphone[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::set_restaurant_tellphone[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::get_restaurant_logo[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::set_restaurant_logo[1]( [mscorlib]System.Byte[] ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Isrestaurant_addressNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Setrestaurant_addressNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Isrestaurant_tellphoneNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Setrestaurant_tellphoneNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Isrestaurant_logoNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::Setrestaurant_logoNull[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRow::.ctor[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  special name
+
+	Pos_System.posdataDataSet/restaurant_infoDataTable [Pos System]Pos_System.posdataDataSet/restaurant_infoDataTable Pos_System.posdataDataSet/restaurant_infoRow::tablerestaurant_info ->  
+
+	System.String [Pos System]System.String Pos_System.posdataDataSet/restaurant_infoRow::restaurant_name ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/restaurant_infoRow::restaurant_address ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/restaurant_infoRow::restaurant_tellphone ->  
+	System.Byte[] [Pos System]System.Byte[] Pos_System.posdataDataSet/restaurant_infoRow::restaurant_logo ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/salesRow -> [Pos System] . /‐
+{
+	[Pos System]Pos_System.posdataDataSet/salesRow::get_invoice_number[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::set_invoice_number[1]( [mscorlib]System.Int32 ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::get_sold_products[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::set_sold_products[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::get_total_price[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::set_total_price[1]( [mscorlib]System.Double ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::get_extract_date[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::set_extract_date[1]( [mscorlib]System.String ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Issold_productsNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Setsold_productsNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Istotal_priceNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Settotal_priceNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Isextract_dateNull[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRow::Setextract_dateNull[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/salesRow::.ctor[1]( [System.Data]System.Data.DataRowBuilder ) skipped:  special name
+
+	Pos_System.posdataDataSet/salesDataTable [Pos System]Pos_System.posdataDataSet/salesDataTable Pos_System.posdataDataSet/salesRow::tablesales ->  
+
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSet/salesRow::invoice_number ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/salesRow::sold_products ->  
+	System.Double [Pos System]System.Double Pos_System.posdataDataSet/salesRow::total_price ->  
+	System.String [Pos System]System.String Pos_System.posdataDataSet/salesRow::extract_date ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent -> [Pos System] . /‑
+{
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent::get_Row[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent::get_Action[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent::.ctor[2]( [Pos System]Pos_System.posdataDataSet/invoiceRow, [System.Data]System.Data.DataRowAction ) skipped:  special name
+
+	Pos_System.posdataDataSet/invoiceRow [Pos System]Pos_System.posdataDataSet/invoiceRow Pos_System.posdataDataSet/invoiceRowChangeEvent::eventRow ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/invoiceRowChangeEvent::eventAction ->  
+
+	Pos_System.posdataDataSet/invoiceRow [Pos System]Pos_System.posdataDataSet/invoiceRow Pos_System.posdataDataSet/invoiceRowChangeEvent::Row ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/invoiceRowChangeEvent::Action ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent -> [Pos System] . /‒
+{
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent::get_Row[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent::get_Action[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent::.ctor[2]( [Pos System]Pos_System.posdataDataSet/itemsRow, [System.Data]System.Data.DataRowAction ) skipped:  special name
+
+	Pos_System.posdataDataSet/itemsRow [Pos System]Pos_System.posdataDataSet/itemsRow Pos_System.posdataDataSet/itemsRowChangeEvent::eventRow ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/itemsRowChangeEvent::eventAction ->  
+
+	Pos_System.posdataDataSet/itemsRow [Pos System]Pos_System.posdataDataSet/itemsRow Pos_System.posdataDataSet/itemsRowChangeEvent::Row ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/itemsRowChangeEvent::Action ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/productsRowChangeEvent -> [Pos System] . /–
+{
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEvent::get_Row[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEvent::get_Action[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEvent::.ctor[2]( [Pos System]Pos_System.posdataDataSet/productsRow, [System.Data]System.Data.DataRowAction ) skipped:  special name
+
+	Pos_System.posdataDataSet/productsRow [Pos System]Pos_System.posdataDataSet/productsRow Pos_System.posdataDataSet/productsRowChangeEvent::eventRow ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/productsRowChangeEvent::eventAction ->  
+
+	Pos_System.posdataDataSet/productsRow [Pos System]Pos_System.posdataDataSet/productsRow Pos_System.posdataDataSet/productsRowChangeEvent::Row ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/productsRowChangeEvent::Action ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent -> [Pos System] . /—
+{
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::get_Row[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::get_Action[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::.ctor[2]( [Pos System]Pos_System.posdataDataSet/restaurant_infoRow, [System.Data]System.Data.DataRowAction ) skipped:  special name
+
+	Pos_System.posdataDataSet/restaurant_infoRow [Pos System]Pos_System.posdataDataSet/restaurant_infoRow Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::eventRow ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::eventAction ->  
+
+	Pos_System.posdataDataSet/restaurant_infoRow [Pos System]Pos_System.posdataDataSet/restaurant_infoRow Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::Row ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/restaurant_infoRowChangeEvent::Action ->  
+}
+
+[Pos System]Pos_System.posdataDataSet/salesRowChangeEvent -> [Pos System] . /―
+{
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEvent::get_Row[0]( ) ->  
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEvent::get_Action[0]( ) ->  
+
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEvent::.ctor[2]( [Pos System]Pos_System.posdataDataSet/salesRow, [System.Data]System.Data.DataRowAction ) skipped:  special name
+
+	Pos_System.posdataDataSet/salesRow [Pos System]Pos_System.posdataDataSet/salesRow Pos_System.posdataDataSet/salesRowChangeEvent::eventRow ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/salesRowChangeEvent::eventAction ->  
+
+	Pos_System.posdataDataSet/salesRow [Pos System]Pos_System.posdataDataSet/salesRow Pos_System.posdataDataSet/salesRowChangeEvent::Row ->  
+	System.Data.DataRowAction [Pos System]System.Data.DataRowAction Pos_System.posdataDataSet/salesRowChangeEvent::Action ->  
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption -> [Pos System] .‫/ 
+{
+	Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption [Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption::InsertUpdateDelete ->  
+	Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption [Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption::UpdateInsertDelete ->  
+
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSetTableAdapters.TableAdapterManager/UpdateOrderOption::value__ skipped:  special name
+}
+
+[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer -> [Pos System] .‫/ 
+{
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer::GetRoot[2]( [System.Data]System.Data.DataRow, [mscorlib]System.Int32& ) ->  
+
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer::.ctor[2]( [System.Data]System.Data.DataRelation, [mscorlib]System.Boolean ) skipped:  special name
+	[Pos System]Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer::Compare[2]( [System.Data]System.Data.DataRow, [System.Data]System.Data.DataRow ) skipped:  external base class or interface
+
+	System.Data.DataRelation [Pos System]System.Data.DataRelation Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer::_relation ->  
+	System.Int32 [Pos System]System.Int32 Pos_System.posdataDataSetTableAdapters.TableAdapterManager/SelfReferenceComparer::_childFirst ->  
+}
+
+[Protection]Protection.Serial -> [Protection] . 
+{
+	[Protection]Protection.Serial::CheckHDAndCpuSerial[1]( [mscorlib]System.String ) ->  
+	[Protection]Protection.Serial::GetHardDriveSerial[0]( ) ->  
+	[Protection]Protection.Serial::GetProcesserSerial[0]( ) ->  
+
+	[Protection]Protection.Serial::.ctor[0]( ) skipped:  special name
+}
+
+[Pos System]SqlServerTypes.Utilities -> [Pos System] . 
+{
+	[Pos System]SqlServerTypes.Utilities::LoadLibrary[1]( [mscorlib]System.String ) ->  
+	[Pos System]SqlServerTypes.Utilities::LoadNativeAssemblies[1]( [mscorlib]System.String ) ->  
+	[Pos System]SqlServerTypes.Utilities::LoadNativeAssembly[2]( [mscorlib]System.String, [mscorlib]System.String ) ->  
+
+	[Pos System]SqlServerTypes.Utilities::.ctor[0]( ) skipped:  special name
+}
+
+[Pos System]Pos_System.Protecter -> [Pos System] .​
+{
+	[Pos System]Pos_System.Protecter::CheckDevice[0]( ) ->  
+	[Pos System]Pos_System.Protecter::IsSerialActive[0]( ) ->  
+
+	[Pos System]Pos_System.Protecter::.ctor[0]( ) skipped:  special name
+}
+
+[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler::Invoke[2]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler::BeginInvoke[4]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/invoiceRowChangeEvent, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/invoiceRowChangeEventHandler::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+[Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler::Invoke[2]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler::BeginInvoke[4]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/itemsRowChangeEvent, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/itemsRowChangeEventHandler::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+[Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler::Invoke[2]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/productsRowChangeEvent ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler::BeginInvoke[4]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/productsRowChangeEvent, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/productsRowChangeEventHandler::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler::Invoke[2]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler::BeginInvoke[4]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEvent, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/restaurant_infoRowChangeEventHandler::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+[Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler -> [Pos System] . / 
+{
+
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler::.ctor[2]( [mscorlib]System.Object, [mscorlib]System.IntPtr ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler::Invoke[2]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/salesRowChangeEvent ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler::BeginInvoke[4]( [mscorlib]System.Object, [Pos System]Pos_System.posdataDataSet/salesRowChangeEvent, [mscorlib]System.AsyncCallback, [mscorlib]System.Object ) skipped:  runtime method
+	[Pos System]Pos_System.posdataDataSet/salesRowChangeEventHandler::EndInvoke[1]( [mscorlib]System.IAsyncResult ) skipped:  runtime method
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+Pos_System.Active.resources ->  . .resources
+Pos_System.EditForm.resources ->  . .resources
+Pos_System.InvoiceReport.resources ->  . .resources
+Pos_System.LoginForm.resources ->  . .resources
+Pos_System.MainForm.resources ->  . .resources
+Pos_System.AmountForm.resources ->  . .resources
+Pos_System.SalesReport.resources ->  .–.resources
+Pos_System.Properties.Resources.resources ->  .•.resources
+
+Skipped Resources:
+
+Pos_System.InvoiceReporting.rdlc (no clear new name)
+Pos_System.SalesReporting.rdlc (no clear new name)
+Pos System.exe.licenses (no clear new name)
