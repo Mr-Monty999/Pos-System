@@ -1,1 +1,1 @@
-Software that controls products,items,sales 
+## A Software that controls products,items,sales 
